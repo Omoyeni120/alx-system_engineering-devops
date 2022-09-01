@@ -1,3 +1,6 @@
 [submodule "alx-pre_cours"]
 	path = alx-pre_cours
 	url = https://github.com/Omoyeni120/alx-system_engineering-devops.git
+[submodule "alx-pre_course"]
+	path = alx-pre_course
+	url = https://github.com/Omoyeni120/alx-system_engineering-devops.git
